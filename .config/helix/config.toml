@@ -1,0 +1,12 @@
+theme = "onedark"
+
+[editor]
+bufferline = "multiple"
+
+[editor.file-picker]
+hidden = false
+git-ignore = false
+
+[keys.normal]
+C-h = ":buffer-previous"
+C-l = ":buffer-next"

@@ -1,0 +1,12 @@
+import = [
+    "~/.config/alacritty/themes/themes/synthwave_84.toml"
+]
+
+shell = "/bin/fish"
+
+[window]
+opacity = 0.9
+
+[font]
+size = 7.75
+normal = { family = "Fira Code Nerd Font", style = "Regular"}
